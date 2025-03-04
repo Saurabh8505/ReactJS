@@ -1,0 +1,14 @@
+.app-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .light {
+    background-color: white;
+    color: black;
+  }
+  
+  .dark {
+    background-color: black;
+    color: white;
+  }
