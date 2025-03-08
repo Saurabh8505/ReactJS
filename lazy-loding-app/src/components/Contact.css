@@ -1,0 +1,16 @@
+/* Contact Container */
+.contact-container {
+    padding: 20px;
+    background-color: var(--light-bg);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+  }
+  
+  .contact-container h2 {
+    color: var(--primary-color);
+  }
+  
+  .contact-container p {
+    line-height: 1.6;
+  }
