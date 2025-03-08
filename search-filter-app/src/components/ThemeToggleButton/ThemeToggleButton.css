@@ -1,0 +1,16 @@
+.theme-toggle-button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.theme-toggle-button.light {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.theme-toggle-button.dark {
+  background-color: #333333;
+  color: #ffffff;
+}
