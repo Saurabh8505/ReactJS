@@ -1,0 +1,16 @@
+/* Light Theme */
+body.light {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+/* Dark Theme */
+body.dark {
+  background-color: #333333;
+  color: #ffffff;
+}
+
+.app {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}

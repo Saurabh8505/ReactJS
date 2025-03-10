@@ -1,0 +1,16 @@
+.search-filter input {
+    padding: 10px;
+    width: 300px;
+    margin-bottom: 20px;
+  }
+  
+  .search-filter ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .search-filter li {
+    padding: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 5px;
+  }
